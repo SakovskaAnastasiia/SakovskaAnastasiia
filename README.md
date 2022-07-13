@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SakovskaAnastasiia
 - 👀 I’m already finished course in the manual QA and continue to improve my knowledge and practical skills
-- 🌱 I’m currently learning more about QC/QA processes and I am looking for a suitable vacancy
+- 🌱 I’m currently learning more about QC/QA processes and I am also looking for a suitable vacancy
 
 
 <!---
